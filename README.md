@@ -1,4 +1,4 @@
-# Py-StcoksCAGRCalculator
+# Py-StocksCAGRCalculator
 To Calculate CAGR when a csv file from IIFL portfolio is uploaded
 
 Download the project and place the csv of portfolio report from IIFL (for now tested for that) and run the main.py, New file with calculated CAGR will be generated in the same directory
